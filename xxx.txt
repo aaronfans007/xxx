@@ -1,0 +1,4 @@
+date, species, count
+2015-04-29, cardinal, 5
+2015-04-28, cardinal, 4
+2015-04-26, chickadee, 13
